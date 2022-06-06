@@ -1,6 +1,6 @@
 Hi there, welcome to my github 👋
 
-## My name is Rafaela and I'm Frontend Software engineer
+## My name is Rafaela and I'm Frontend Software Engineer
 
 <img src="assets/avatar.png" width="200px" align="right" alt="avatar rafabernardo" />
 
