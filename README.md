@@ -1,4 +1,7 @@
-### Hi there 👋
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2> Hi there 👋, My name is Rafaela and I'm Frontend Software engineer
+  <img src="assets/avatar.png" width="200px">
+</div>
 
 <!--
 **rafabernardo/rafabernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
