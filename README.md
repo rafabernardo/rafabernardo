@@ -7,8 +7,7 @@ Hi there, welcome to my github 👋
 - 😄 Pronouns: she/her
 - 👩‍💻 I'm currently working at HighNote
 - 🎓 I'm an undergraduate student of Information Systems at UFSC
-- 🛠 I work mainly with React, Javascript, Webpack, Redux and Material-UI
-- 🌱 I’m currently learning Next.js and Typescript
+- 🛠 I work mainly with React, Javascript, Webpack, Redux and Material-UI, Next.js and Typescript
 - ✨ I already work as backend with Java and soon I'll focus on learning Python and Node.js
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafaela%20Rodrigues-8a5c55?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafabrodrigues/)](https://www.linkedin.com/in/rafabrodrigues/) [![Gmail Badge](https://img.shields.io/badge/-rafabernardo.r@gmail.com-8a5c55?style=flat&logo=Gmail&logoColor=white&link=mailto:rafabernardo.r@gmail.com)](mailto:rafabernardo.r@gmail.com)
